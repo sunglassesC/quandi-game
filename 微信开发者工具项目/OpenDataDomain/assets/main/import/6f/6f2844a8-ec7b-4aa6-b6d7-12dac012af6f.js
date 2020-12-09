@@ -1,0 +1,1 @@
+module.exports = {"__type__":"cc.SpriteFrame","content":{"name":"item_bg","texture":"9cPFNmJyBMA59Ohv3uvTy1","rect":[2,0,651,114],"offset":[0,0],"originalSize":[655,114],"capInsets":[0,0,0,0]}};

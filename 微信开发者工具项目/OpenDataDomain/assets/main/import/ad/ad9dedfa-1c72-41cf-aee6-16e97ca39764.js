@@ -1,0 +1,1 @@
+module.exports = {"__type__":"cc.SpriteFrame","content":{"name":"mikado_outline_shadow","texture":"5dqwns5xVBGKpMHtzVA6rP","rect":[3,3,497,232],"offset":[-4.5,9],"originalSize":[512,256],"capInsets":[0,0,0,0]}};

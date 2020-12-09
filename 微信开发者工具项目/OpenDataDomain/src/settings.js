@@ -1,0 +1,1 @@
+window._CCSettings={platform:"wechatgame-subcontext",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:false,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/开放数据域.fire",orientation:"",jsList:[],subContextRoot:"OpenDataDomain"};
